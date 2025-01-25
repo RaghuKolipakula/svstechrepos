@@ -1,2 +1,2 @@
 # svstechrepos
-svs tech repos
+svs tech repos of sunny
